@@ -1,0 +1,91 @@
+palette {
+color-scheme: #b0cae3, #c7cfd793, #eab34f, #f06d41, #fff;
+}
+
+
+body {
+    background: radial-gradient(ellipse at top, #ffa588, transparent),
+                radial-gradient(ellipse at bottom, #b0cae3, transparent);
+    font-size: 21px;
+    
+}
+
+.article-boxWhite {
+  background: #fff;
+  border-radius: 20px;
+  padding: 50px;
+  padding-bottom: 5.2em;
+  margin: 2em;
+  position: relative;
+  min-width: 376px;
+}
+
+.title {
+    font-family: Literata, serif;
+    font-weight: 900;
+    font-size: 70px;
+    margin: .3em 0 .3em;
+    color:#f06d41;
+}
+
+.main-title {
+  line-height: 1em;
+  color:#f06d41;
+}
+
+.title-2 {
+  font-weight: 900;
+  margin-bottom: 1.4em;
+}
+
+.mobile {
+  font-size: 2em;
+  line-height: 1em;
+}
+
+.title-2-mobile {
+  font-weight: 900;
+  margin-top: -.2em;
+  margin-bottom: 1em;
+}
+
+.title-mobile {
+  text-align: center;
+  font-size: 2em;
+  margin-top: .8em;
+}
+
+.example {
+  font-family: Literata, serif;
+  font-weight: 900;
+  font-size: .9em;
+}
+
+img {
+  max-width: 100%;
+  margin: 0 0 2em;
+}
+
+.outro {
+  margin-top: 1em;
+}
+
+.footer {
+  border-radius: 15px;
+  padding: 1em;
+  margin: 0 -3% 3%;
+  background-color:#deefff;
+}
+
+.links {
+  color: #5d91c2;
+  text-decoration: none;
+  border-bottom: 1px solid #5d91c2;
+  transition: 0.3s ease-out;
+ }
+ 
+.links:hover {
+  color: #f06d41;
+  text-decoration: none;
+  border-color: #f06d41;
+ }
