@@ -58,23 +58,39 @@ body {
 .example {
   font-family: Literata, serif;
   font-weight: 900;
-  font-size: .9em;
+  font-size: 1em;
 }
 
 img {
   max-width: 100%;
-  margin: 0 0 2em;
-}
+  }
+
 
 .outro {
   margin-top: 1em;
 }
 
-.footer {
+.fighter {
   border-radius: 15px;
   padding: 1em;
   margin: 0 -3% 3%;
   background-color:#deefff;
+}
+
+.sidenote{
+  font-family: Literata, serif;
+  font-style: italic;
+  font-size: 0.6em;
+  border-radius: 15px;
+  padding: 1em;
+  background-color:#deefff;
+}
+.footer {
+  font-size: .5em;
+  border-radius: 15px;
+  padding: 1em;
+  margin: 6em -1em -2em -1em;
+  background-color:#c7cfd793;
 }
 
 .links {
@@ -89,3 +105,8 @@ img {
   text-decoration: none;
   border-color: #f06d41;
  }
+
+ .list {
+  margin-left: 1.3em;
+ }
+ 
