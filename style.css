@@ -20,11 +20,20 @@ body {
   min-width: 376px;
 }
 
+.article-boxTransparent {
+  border-radius: 20px;
+  padding: 50px;
+  padding-bottom: 5.2em;
+  margin: 2em;
+  position: relative;
+  min-width: 376px;
+}
+
 .title {
     font-family: Literata, serif;
     font-weight: 900;
     font-size: 70px;
-    margin: .3em 0 .3em;
+    margin: 0.1em 0 .3em;
     color:#f06d41;
 }
 
@@ -52,7 +61,7 @@ body {
 .title-mobile {
   text-align: center;
   font-size: 2em;
-  margin-top: .8em;
+  margin-top: .3em;
 }
 
 .example {
@@ -63,12 +72,9 @@ body {
 
 img {
   max-width: 100%;
+  margin-bottom: 2em;;
   }
 
-
-.outro {
-  margin-top: 1em;
-}
 
 .fighter {
   border-radius: 15px;
@@ -77,20 +83,18 @@ img {
   background-color:#deefff;
 }
 
+.fighter:last-of-type {
+  margin-top: 1em;
+}
+
 .sidenote{
   font-family: Literata, serif;
   font-style: italic;
   font-size: 0.6em;
   border-radius: 15px;
   padding: 1em;
+  margin-bottom: 1.2em;
   background-color:#deefff;
-}
-.footer {
-  font-size: .5em;
-  border-radius: 15px;
-  padding: 1em;
-  margin: 6em -1em -2em -1em;
-  background-color:#c7cfd793;
 }
 
 .links {
