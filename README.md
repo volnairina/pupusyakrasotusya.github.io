@@ -1,1 +1,0 @@
-# pupusyakrasotusya.github.io
