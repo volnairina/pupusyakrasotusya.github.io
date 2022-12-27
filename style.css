@@ -88,13 +88,7 @@ img {
 }
 
 .sidenote{
-  font-family: Literata, serif;
-  font-style: italic;
   font-size: 0.6em;
-  border-radius: 15px;
-  padding: 1em;
-  margin-bottom: 1.2em;
-  background-color:#deefff;
 }
 
 .links {
@@ -108,10 +102,6 @@ img {
   color: #f06d41;
   text-decoration: none;
   border-color: #f06d41;
- }
-
- .list {
-  margin-left: 1.3em;
  }
  
  .smol {
