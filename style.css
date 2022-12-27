@@ -101,5 +101,5 @@ a {
 a:hover {
   color: #f06d41;
   text-decoration: none;
-  border-color: #f06d41;
+  border-bottom: 1px solid #f06d41;
  }
