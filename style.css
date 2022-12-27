@@ -114,3 +114,8 @@ img {
   margin-left: 1.3em;
  }
  
+ .smol {
+display: inline-block;
+max-width: 3em;
+margin-top: 7%;
+ }
